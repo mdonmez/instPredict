@@ -1,0 +1,1 @@
+- [ ] Add other method and improve general idea. For now, it's just a simple prototype idea that can may sunset.
